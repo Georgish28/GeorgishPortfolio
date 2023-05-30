@@ -523,15 +523,15 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 100%;
 }
 
-.skills__figma {
-  width: 60%;
+.skills__java {
+  width: 80%;
 }
 
-.skills__sketch {
-  width: 85%;
+.skills__c {
+  width: 60%;
 }
 
 .skills__photoshop {
